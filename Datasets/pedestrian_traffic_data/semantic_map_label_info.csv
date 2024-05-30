@@ -1,0 +1,7 @@
+id,name,red,green,blue
+0,undefined,0,0,0
+1,parking lot,120,0,0
+2,road,102,102,102
+3,sidewalk,77,77,77
+4,bus lane,0,0,120
+5,zebra,179,179,179

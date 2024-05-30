@@ -1,0 +1,8 @@
+cellSize: 0.1m
+
+origin: lower-left
+x_direction: rightward
+y_direction: upward
+X_offset: 495702.1013351018
+
+y_offset: 5405694.536986966
